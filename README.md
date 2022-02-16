@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TogaraMutasa
-- 👀 I am a Database Developer with business  and banking Systems experience
+- 👀 I am a Data Engineer with business  and banking Systems experience
 Databases - Mainly Oracle and additionally SQL Server, MySQL, PostgresSQL , MongoDB, sqlite
 So yes,no price for guessing I have lots of experience and expertise on SQL, PL/SQL
 And Additionally T-SQL
@@ -8,7 +8,7 @@ Recently transitioning to a Data Engineering role
 Linux and Unix Operating Systems
 Windows PowerShell
 Expert Control-M Scheduling Tool
-- 🌱 I’m currently learning Data Engineering and Data Science and Analytics. Also keen interest in ERPNext.
+- 🌱 I’m currently transitioning to a Data Engineering role with AI and Analytics. Also keen interest in ERPNext.
 - 💞️ I’m looking to collaborate on Data Engineering , AI and Deep learning.
 - 📫 You can reach me on email : togaramutasa@gmail.com, togaramutasa@parameterworld.com
 
